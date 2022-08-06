@@ -1,2 +1,3 @@
 # LoveRunning
-HTML, CSS landing page for a Running group
+HTML, CSS simple promo website for a Running group
+![View live site](https://jhodgkins.github.io/LoveRunning/)
